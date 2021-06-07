@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
 
 
 body {
-     background: no-repeat url('/img/wallstore.jpg');
+     background: center / contain no-repeat url('/img/wallstore.jpg');
      padding: 30px;
      
 }
