@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
 body {
      background-image: url('/img/wallstore.jpg');
      padding: 30px;
-     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
 }
 
 h1 {
@@ -51,7 +51,6 @@ h1 {
      box-shadow: 0 0 10px #000;
      height: 300px;
      background-color: white;
-     
 }
 
 
