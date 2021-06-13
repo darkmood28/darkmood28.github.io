@@ -34,8 +34,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
 
 
 body {
-     background: center / contain no-repeat url('/img/wallstore.jpg');
-     padding: 30px;
+     background: center / contain repeat url('/img/fon.jpg');
      
 }
 
@@ -53,6 +52,8 @@ h1 {
      height: 300px;
      background-color: white;
 }
+
+
 
 
 
