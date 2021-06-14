@@ -43,8 +43,33 @@ h1 {
      margin-bottom: auto;
      font-size: 50px;
      padding: 30px;
+     color: rgb(167, 107, 30);
+     text-shadow: rgb(82, 45, 12);
 }
 
+ul.nav{
+     margin-left: 0px;
+     padding-left: 0px;
+     list-style: none;
+ }
+ .nav li { 
+     float: left;
+ }
+ ul.nav a {
+     display: block;
+     width: 5em;
+     padding:10px;
+     margin: 0 5px;
+     background-color: #f4f4f4;
+     border: 1px dashed #333;
+     text-decoration: none;
+     color: #333;
+     text-align: center;
+ }
+ ul.nav a:hover{
+     background-color: #333;
+     color: #f4f4f4;
+ }
 
 
 
