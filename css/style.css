@@ -60,12 +60,13 @@ ul.nav{
      width: 5em;
      padding:10px;
      margin: 0 5px;
-     background-color: #f4f4f4;
-     border: 1px dashed #333;
-     text-decoration: none;
-     color: #333;
+     background-color: none;
+     border: 1px double #333;
+     text-decoration: underline;
+     color: rgb(167, 107, 30);
      text-align: center;
  }
+
  ul.nav a:hover{
      background-color: #333;
      color: #f4f4f4;
