@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
 
 
 body {
-     background: center contain repeat url('/img/fon2.jpg');
+     background: center repeat url('/img/fon2.jpg');
      padding: 30px;
 }
 
@@ -47,17 +47,17 @@ h1 {
      text-shadow: rgb(82, 45, 12);
 }
 
-ul.nav{
+ul.main-menu {
      margin-left: 0px;
      padding-left: 0px;
      list-style: none;
  }
 
- .nav li { 
+ .main-menu li { 
      float: left;
  }
 
- ul.nav a {
+ ul.main-menu a {
      display: block;
      width: 5em;
      padding:10px;
@@ -69,7 +69,7 @@ ul.nav{
      text-align: center;
  }
 
- ul.nav a:hover{
+ ul.main-menu a:hover{
      background-color: #333;
      color: #f4f4f4;
  }
