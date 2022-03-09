@@ -39,13 +39,14 @@ body {
 }
 
 h1 {
+     display: block;
      text-align: center;
      margin-bottom: auto;
      font-size: 50px;
      padding: 30px;
      color: rgb(167, 107, 30);
      text-shadow: rgb(82, 45, 12);
-     border: rgb(82, 45, 12);
+     border: 4mm rgb(148, 93, 45);
 }
 
 ul.main-menu {
